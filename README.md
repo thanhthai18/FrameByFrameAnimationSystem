@@ -1,4 +1,4 @@
-# FastMessage
+# FrameByFrameAnimation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-2020.3+-000000.svg?style=flat-square&logo=unity" alt="Unity" />
